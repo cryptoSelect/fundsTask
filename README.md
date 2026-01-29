@@ -12,7 +12,7 @@ cd fundsTask
 ## 说明
 
 - 依赖数据库与 [cryptoSelect/public](https://github.com/cryptoSelect/public) 公共库。
-- 需配置 `config/config.json`（数据库、登录等），运行后执行登录并启动币种信息、资金流向等定时任务。
+- 需配置 `config/config.json`（数据库、登录等），可复制 `config/config.example.json` 为 `config/config.json` 后按需修改。运行后执行登录并启动币种信息、资金流向等定时任务。
 
 ## 本地运行
 

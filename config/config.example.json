@@ -1,0 +1,19 @@
+{
+    "mode": "prod",
+    "login": {
+        "phoneOrEmail": "your_phone_or_email",
+        "code": "your_login_code"
+    },
+    "database": {
+        "host": "localhost",
+        "port": 51001,
+        "user": "your_user",
+        "password": "your_password",
+        "dbName": "crypto_alert",
+        "sslMode": "disable"
+    },
+    "timer": {
+        "skipFirstDelay": false,
+        "immediateExecution": false
+    }
+}
