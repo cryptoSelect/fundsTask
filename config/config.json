@@ -1,0 +1,15 @@
+{
+    "mode": "prod",
+    "login": {
+        "phoneOrEmail": "1149855229@qq.com",
+        "code": "kezbyr-kytba1-tafgYc"
+    },
+    "database": {
+        "host": "192.168.1.24",
+        "port": 51001,
+        "user": "octa8lab",
+        "password": "octa8lab",
+        "dbName": "crypto_alert",
+        "sslMode": "disable"
+    }
+}
