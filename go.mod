@@ -4,7 +4,7 @@ go 1.25.4
 
 require (
 	github.com/0xA2618/logjson v1.0.0
-	github.com/cryptoSelect/public v1.0.1
+	github.com/cryptoSelect/public v1.0.3
 )
 
 require (
